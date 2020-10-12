@@ -15,7 +15,7 @@ public class homePage extends CommonAPI {
     public static WebElement beautyAndPersonalCareWebelement;
 
 
-    //just a test
+
 
 
 
